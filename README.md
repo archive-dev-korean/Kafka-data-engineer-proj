@@ -1,8 +1,8 @@
 # Kafka-data-engineer-proj
-ApacheKafka를 활용한 데이터 파이프라인 프로젝트
-실시간 데이터 스트리밍을 위해 Apache Kafka 사용. 
-Ipwebcam 어플리케이션을 설치해서 앱과 연결
-실시간 이미지 처리를 위한 프레임별 이미지 저장
+ApacheKafka를 활용한 데이터 파이프라인 프로젝트</br>
+실시간 데이터 스트리밍을 위해 Apache Kafka 사용.</br> 
+Ipwebcam 어플리케이션을 설치해서 앱과 연결</br>
+실시간 이미지 처리를 위한 프레임별 이미지 저장</br>
 
 
 <h1>Apache Kafka 로컬에서 실행</h1>
