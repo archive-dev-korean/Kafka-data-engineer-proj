@@ -48,7 +48,7 @@ def consume_and_save_frames(consumer, save_path, gaze_url, emotion_url):
                 if last_frame_state:
                     print(f"Stream ended for video_id {video_id} after {frame_number} frames.")
                     return
-# 9092 포트로 데이터 
+# 9092 포트로 데이터 전송
 if __name__ == '__main__':
     kafka_topic = 'video-stream'
     kafka_bootstrap_servers = ['localhost:9092']
